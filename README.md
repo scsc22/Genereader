@@ -12,20 +12,9 @@
   - [Tests](#tests)
   - [Questions](#questions)
   
-  ## Installation
-  they cannot
-  
-  ## Usage
-  they cannot
   
   ## License
   This project is licensed under the MIT license.
-  
-  ## Contributing
-  they cannot
-  
-  ## Tests
-  they cannot
   
   ## Questions
   - GitHub: [scsc22](https://github.com/scsc22)
